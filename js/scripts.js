@@ -23,7 +23,27 @@ $(document).ready(function(){
     })
 
 })
-    
+$(document).ready(function(){
+    $("#davvy2").click(function(){
+        $("#davvy2").hide();
+        $(".done2").show();
+    })
+    $(".done2").click(function(){
+        $("#davvy2").show();
+        $(".done2").hide();
+    })
 
+}) 
+$(document).ready(function(){
+    $("#davvy3").click(function(){
+        $("#davvy3").hide();
+        $(".done3").show();
+    })
+    $(".done3").click(function(){
+        $("#davvy3").show();
+        $(".done3").hide();
+    })
+
+}) 
 
 
