@@ -35,7 +35,12 @@ body{
 .services{
     padding-top: 150px;
 }
-/* #eve{
-    width:80% ;
-    
-} */
+#eve{
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 120px;
+    background:none;
+}
+#name, #email{
+    background:none;
+}
