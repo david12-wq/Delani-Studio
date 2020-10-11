@@ -1,0 +1,17 @@
+.fluid{
+    background-image: url("/images/assets/backgrounds/h_img.jpg");
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
+.services{
+    background-image: url("/images/assets/backgrounds/s_image.jpg");
+    height: 400px;
+    text-align: center;
+    color: white;
+}
+.about{
+    text-align: center;
+}
