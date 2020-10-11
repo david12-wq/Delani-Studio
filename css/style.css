@@ -43,4 +43,6 @@ body{
 }
 #name, #email{
     background:none;
+}.done1{
+    display: none;
 }

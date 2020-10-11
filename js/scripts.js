@@ -12,7 +12,17 @@ function myFunction() {
     
 }
     
+$(document).ready(function(){
+    $("#davvy").click(function(){
+        $("#davvy").hide();
+        $(".done1").show();
+    })
+    $(".done1").click(function(){
+        $("#davvy").show();
+        $(".done1").hide();
+    })
 
+})
     
 
 
