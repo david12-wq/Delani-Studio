@@ -5,6 +5,7 @@
     background-repeat: no-repeat;
     text-align: center;
     color: white;
+    padding-top: 100px;
 }
 .services{
     background-image: url("/images/assets/backgrounds/s_image.jpg");
@@ -15,3 +16,23 @@
 .about{
     text-align: center;
 }
+.portfolio img{
+width: 250px;
+}
+body{
+    text-align: center;
+}
+#davie{
+    background-image: url(/images/assets/backgrounds/c_image.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    margin-top: 30px;
+}
+.tube{
+    padding-top: 20px;
+}
+/* #eve{
+    width:80% ;
+    
+} */
