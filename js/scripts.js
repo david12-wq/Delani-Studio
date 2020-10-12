@@ -54,7 +54,7 @@ $(document).ready(function () {
         $("#cute1").show();
     })
     .mouseout(function () {
-        $("#cute1").hide();
+        $("#cute").hide();
     })
     $("#good2").mouseover(function () {
         $("#cute2").show();
